@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DemoBlaze Suite" parallel="false">
+    <test name="Home_Test_Checking">
+        <classes>
+            <class name="Home_Test">
+                <methods>
+                    <exclude name="verifyLoginPageNavigation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
