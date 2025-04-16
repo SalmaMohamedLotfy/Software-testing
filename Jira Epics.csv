@@ -1,0 +1,744 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Team Id,Team Name,Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent summary,Status Category,Status Category Changed
+Responsive design issue,SCRUM-65,10082,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,4/14/2025 21:01,4/14/2025 21:01,4/16/2025 20:16,4/14/2025 21:01,,0,|Content doesn’t adjust properly on mobile browsers on the About Us page.|,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,,,,,,,,,,,SCRUM-12,SCRUM-37,,,,,,,,,,,14/Apr/25 9:00 PM;84cc4a46-2ae0-417a-8c28-ca4f91538f12;about us2.jpeg;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10036,,,,,,,,,,,,,,,,,0|i000d3:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_832_*|*_10002_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 21:01
+Missing Contact Us button,SCRUM-64,10081,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,4/14/2025 20:53,4/14/2025 20:54,,4/14/2025 20:54,,0,|Contact Us button not visible on the About Us page.|,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,,,,,,,,,,,SCRUM-12,SCRUM-37,,,,,,,,,,,14/Apr/25 8:53 PM;84cc4a46-2ae0-417a-8c28-ca4f91538f12;about us1.PNG;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10035,,,,,,,,,,,,,,,,,0|i000cv:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_927_*|*_10002_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 20:54
+Media not loading,SCRUM-63,10080,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,4/14/2025 20:50,4/14/2025 20:50,,4/14/2025 20:50,,0,"|Media file fails to load on the About Us page. Error message: ""The media could not be loaded, either because the server or network failed or because the format is not supported.""|",,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,,,,,,,,,,,SCRUM-12,SCRUM-37,,,,,,,,,,,14/Apr/25 8:50 PM;84cc4a46-2ae0-417a-8c28-ca4f91538f12;about us1.PNG;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10034,,,,,,,,,,,,,,,,,0|i000cn:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_976_*|*_10002_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 20:50
+Password rule validation not enforced,SCRUM-62,10079,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,4/14/2025 20:34,4/14/2025 20:34,,4/14/2025 20:34,,0,"|The system allows registration with weak passwords, violating the security requirements.|",,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,,,,,,,,,,,SCRUM-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000cf:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_645_*|*_10002_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 20:34
+Missing fields on the sign-up page,SCRUM-61,10078,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,4/14/2025 20:30,4/14/2025 20:30,4/15/2025 4:45,4/14/2025 20:30,,0,"|The sign-up page is missing required fields (Name, Email, Confirm Password).|",,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,,,,,,,,,,,SCRUM-12,,,,,,,,,,,,14/Apr/25 8:29 PM;84cc4a46-2ae0-417a-8c28-ca4f91538f12;sign up.PNG;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10033,,,,,,,,,,,,,,,,,0|i000c7:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_1267_*|*_10002_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 20:30
+Incorrect Month in Date and Credit Card Not Masked in Confirmation Message,SCRUM-60,10077,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/11/2025 11:49,4/15/2025 20:11,4/14/2025 19:52,4/15/2025 20:11,,0,"When completing the checkout process and viewing the order confirmation message, the details displayed are incorrect:
+
+# *Incorrect Month in Date*:
+#* The *month* displayed in the confirmation message is incorrect and does not match the month entered during the checkout process (e.g., if the user entered ""May"", it shows ""April"" in the confirmation).
+# *Credit Card Not Masked*:
+#* The *credit card number* displayed in the confirmation message is not masked. For example, the full card number (e.g., {{4111 1111 1111 1111}}) is shown in the confirmation, instead of only displaying the last four digits (e.g., {{**** **** **** 1111}}).
+
+
+
+*Steps to Reproduce:*
+
+# Go to [https://www.demoblaze.com/.|https://www.demoblaze.com/.|smart-link] 
+# Click on the ""Phones"" category.
+# Click on "" Samsung galaxy s6"" product
+4)Click on the ""Add to Cart"" button.
+# Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+# Click on ""cart""  link  in the navigation bar
+# Click on “Place Order” button.
+#  Fill in the purchase form (Name, Country, City, Credit Card, Month, Year).
+#  Click on “Purchase”
+
+   7) Review the *confirmation message* displayed.
+
+    8) Notice that the *month in the date* is incorrect and the *credit card number* is visible in full (not masked).
+
+
+
+
+h3. *Expected Result:*
+
+# The confirmation message should show the correct *month* (the same month entered during the checkout process).
+# The *credit card number* should be masked, displaying only the last four digits (e.g., {{**** **** **** 1111}}).
+
+h3. *Actual Result:*
+
+# The *month in the date* displayed is incorrect (e.g., May shows as April).
+# The *credit card number* is *not masked*, and the full card number is visible.
+
+h3. *Severity:* High
+
+*Priority:* Critical
+
+h3. *Environment:*
+
+    *operating system*: Windows 10
+
+* *Platform:* [Desktop/Mobile]
+* *Browser:* [Chrome/Edge,]
+* *Version:* [Current version of the website]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000bz:,,,,,,,,,,,,,,,10000_*:*_1_*:*_375681668_*|*_10002_*:*_1_*:*_0,,,Done,4/15/2025 20:11
+ Close Order Confirmation Message,SCRUM-59,10076,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/11/2025 6:43,4/11/2025 11:50,,4/11/2025 11:50,,0,"As a user, I want to click ""OK"" to close the order confirmation message, so I can continue with my next actions.
+
+h4. *Acceptance Criteria:*
+
+# After placing the order, a confirmation message (""Your purchase is completed"") is displayed.
+# The user can click an *""OK""* button to close the confirmation message.
+# After clicking ""OK"", the user is  redirected to the homepage .
+# The confirmation message disappears after clicking ""OK"" and does not reappear unless the user initiates the order process again.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000br:,,,,,,,,,,,,,,,10000_*:*_1_*:*_18377782_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 11:50
+Display Order Confirmation Message,SCRUM-58,10075,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/11/2025 6:37,4/11/2025 11:49,4/14/2025 17:57,4/11/2025 11:49,,0,"*As a user, I want to see a confirmation message with my order details, so I can verify that my purchase was completed correctly.*
+
+h4. *Acceptance Criteria:*
+
+# After placing the order, a confirmation message (""Your purchase is completed"") is displayed.
+# The message includes order details like:
+#* Order ID.
+#* Amount(including taxes and shipping, if applicable).
+#* Last 4 digits of the Card Number .
+#* Name(the buyer's name).
+#* Date.
+# The information matches what was entered during checkout.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000bj:,,,,,,,,,,,,,,,10000_*:*_1_*:*_18737922_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 11:49
+"Purchase is completed even when the Year field is left empty in the ""Place Order"" form.",SCRUM-57,10074,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/11/2025 5:50,4/11/2025 10:31,,4/11/2025 10:31,,0,"The purchase is completed even when the Year field in the ""Place Order"" form is left empty. The form should require this field to be filled before allowing the order to be submitted.
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on the “Phones” category.
+
+3) Select “Samsung galaxy s6”.
+
+4) Click the “Add to cart” button.
+
+5) Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click the “Cart” link in the navigation bar.
+
+7) Click the ""Place Order"" button to open the form.
+
+8) Fill out all fields with valid data except leave the Year field empty.
+
+9) Click the ""Purchase"" button.
+
+*Expected Result:*
+The purchase should not be completed when the Year field is empty. The form should display a validation error and block submission until the field is filled.
+
+*Actual Result:*
+The order is completed successfully, and the ""Thank you for your purchase"" message appears, despite the Year field being left blank.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000bb:,,,,,,,,,,,,,,,10000_*:*_1_*:*_16863318_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed even when the Month field is left empty in the ""Place Order"" form.",SCRUM-56,10073,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:42,4/11/2025 10:31,4/11/2025 5:45,4/11/2025 10:31,,0,"The purchase is completed even when the Month field in the ""Place Order"" form is left empty. The form should require this field to be filled before allowing the order to be submitted.
+
+
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] .
+
+2) Click on the “Phones” category.
+
+3) Select “Samsung galaxy s6”.
+
+4) Click the “Add to cart” button.
+
+5) Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click the “Cart” link in the navigation bar.
+
+7) Click the ""Place Order"" button to open the form.
+
+8) Fill out all fields with valid data except leave the Month field empty.
+
+9) Click the ""Purchase"" button.
+
+*Expected Result:*
+The purchase should not be completed when the Month field is empty. The form should display a validation error and block submission until the field is filled.
+
+*Actual Result:*
+The order is completed successfully, and the ""Thank you for your purchase"" message appears, despite the Month field being left blank.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000b3:,,,,,,,,,,,,,,,10000_*:*_1_*:*_215365676_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed even when the City field is left empty in the ""Place Order"" form.",SCRUM-55,10072,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:36,4/11/2025 10:31,,4/11/2025 10:31,,0,"The purchase is completed even when the City field in the ""Place Order"" form is left empty. The form should require this field to be filled before allowing the order to be submitted.
+
+*Steps to Reproduce:*
+
+1)Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] .
+
+2)Click on the “Phones” category.
+
+3)Select “Samsung galaxy s6”.
+
+4) Click the “Add to cart” button.
+
+5)Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click the “Cart” link in the navigation bar.
+
+7) Click the ""Place Order"" button to open the form.
+
+8)Fill out all fields with valid data except leave the City field empty.
+
+9) Click the ""Purchase"" button.
+
+*Expected Result:*
+The purchase should not be completed when the City field is empty. The form should display a validation error and block submission until the field is filled.
+
+*Actual Result:*
+The order is completed successfully, and the ""Thank you for your purchase"" message appears, despite the City field being left blank.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000av:,,,,,,,,,,,,,,,10000_*:*_1_*:*_215718784_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed even when the Country field is left empty in the ""Place Order"" form.",SCRUM-54,10071,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:30,4/11/2025 10:31,,4/11/2025 10:31,,0,"The purchase is completed even when the *Country* field in the ""Place Order"" form is left empty. The form should require this field to be filled before allowing the order to be submitted.
+
+*Steps to Reproduce:*
+
+# Go to [https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] .
+# Click on the “Phones” category.
+# Select “Samsung galaxy s6”.
+# Click the “Add to cart” button.
+# Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+# Click the “Cart” link in the navigation bar.
+# Click the ""Place Order"" button to open the form.
+# Fill out all fields with valid data *except* leave the *Country* field empty.
+# Click the ""Purchase"" button.
+
+*Expected Result:*
+The purchase should not be completed when the *Country* field is empty. The form should display a validation error and block submission until the field is filled.
+
+
+
+*Actual Result:*
+The order is completed successfully, and the ""Thank you for your purchase"" message appears, despite the *Country* field being left blank.
+
+*Priority:* High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000an:,,,,,,,,,,,,,,,10000_*:*_1_*:*_216079890_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed despite invalid Year input in the ""Place Order"" form.",SCRUM-53,10070,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:18,4/11/2025 10:31,,4/11/2025 10:31,,0,"When a user enters an invalid Year in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the Year is invalid, and the user should be asked to fix it before submitting.
+
+{{ }}*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on “Phones “ category.
+
+3) Click on “Samsung galaxy s6”
+
+4) Click on “Add to cart” button.
+
+5) Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click on “cart” link at the navigation bar.
+
+7) Click on the ""Place Order"" button to open the form.
+
+8( In the ""Place Order"" form, enter an invalid Year.
+
+9) Click on purchase button
+
+*Expected Result:*
+The purchase should not be completed if the Year is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid Year input, bypassing the validation.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000af:,,,,,,,,,,,,,,,10000_*:*_1_*:*_216796336_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed despite invalid Month input in the ""Place Order"" form.",SCRUM-52,10069,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:11,4/11/2025 10:31,,4/11/2025 10:31,,0,"When a user enters an invalid Month  in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the Month is invalid, and the user should be asked to fix it before submitting.
+
+
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on “Phones “ category.
+
+3) Click on “Samsung galaxy s6”
+
+4) Click on “Add to cart” button.
+
+5)Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click on “cart” link at the navigation bar.
+
+7) Click on the ""Place Order"" button to open the form.
+
+8( In the ""Place Order"" form, enter an invalid Month.
+
+9) Click on purchase button
+
+*Expected Result:*
+The purchase should not be completed if the Month is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid Month input, bypassing the validation.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000a7:,,,,,,,,,,,,,,,10000_*:*_1_*:*_217203898_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed despite invalid City input in the ""Place Order"" form.",SCRUM-51,10068,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 22:03,4/11/2025 10:31,4/8/2025 22:03,4/11/2025 10:31,,0,"When a user enters an invalid City  in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the City is invalid, and the user should be asked to fix it before submitting.
+
+{{ }}
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on “Phones “ category.
+
+3) Click on “Samsung galaxy s6”
+
+4) Click on “Add to cart” button.
+
+5) Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click on “cart” link at the navigation bar.
+
+7) Click on the ""Place Order"" button to open the form.
+
+8) In the ""Place Order"" form, enter an invalid City.
+
+9) Click on purchase button
+
+*Expected Result:*
+The purchase should not be completed if the City is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid City input, bypassing the validation.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009z:,,,,,,,,,,,,,,,10000_*:*_1_*:*_217693390_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed despite invalid Country input in the ""Place Order"" form.",SCRUM-50,10067,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 21:57,4/11/2025 10:31,4/8/2025 22:04,4/11/2025 10:31,,0,"When a user enters an invalid Country  in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the Country is invalid, and the user should be asked to fix it before submitting.
+
+{{ }}
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on “Phones “ category.
+
+3) Click on “Samsung galaxy s6”
+
+4) Click on “Add to cart” button.
+
+5) Click ""Ok"" to Accept the confirmation alert that appears after adding the product to the cart.
+
+
+6) Click on “cart” link at the navigation bar.
+
+7) Click on the ""Place Order"" button to open the form.
+
+8) In the ""Place Order"" form, enter an invalid  Country.
+
+9) Click on purchase button.
+
+*Expected Result:*
+The purchase should not be completed if the Country is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid Country input, bypassing the validation.
+
+*Priority*: High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009r:,,,,,,,,,,,,,,,10000_*:*_1_*:*_218054065_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/11/2025 10:31
+"Purchase is completed despite invalid Month input in the ""Place Order"" form.",SCRUM-49,10066,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/8/2025 2:53,4/8/2025 2:53,4/8/2025 2:54,4/8/2025 2:53,,0,"When a user enters an invalid Month  in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the Month is invalid, and the user should be asked to fix it before submitting.
+
+{{ }}
+
+*Steps to Reproduce:*
+
+1) Go to{{ }}[https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] {{ }}.
+
+2) Click on “Phones “ category.
+
+3) Click on “Samsung galaxy s6”
+
+4) Click on “Add to cart” button.
+
+5) Click on “cart” link at the navigation bar.
+
+6) Click on the ""Place Order"" button to open the form.
+
+7) In the ""Place Order"" form, enter an invalid Month .
+
+8)Click on purchase button
+
+*Expected Result:*
+The purchase should not be completed if the Month is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid Month input, bypassing the validation.
+
+*Priority*: High
+
+*Severity:* Major (affects payment integrity and user experience)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0009j:,,,,,,,,,,,,,,,10000_*:*_1_*:*_637_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 2:53
+Pagination in Product Categories Displays Incorrect Items When Navigating Pages,SCRUM-48,10047,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,4/4/2025 16:25,4/12/2025 12:08,,4/12/2025 12:08,,0,"h2. Impact
+
+The pagination in product categories displays incorrect items when users navigate between pages. This leads to confusion as users may not see the expected products.
+
+h2. Expected behaviour
+
+When users navigate through the product categories, they should see the correct items corresponding to each page.
+
+h2. Actual behaviour
+
+Currently, when users click the Next button, the items displayed do not match the expected products for that category.
+
+h2. Steps to reproduce
+
+* Go to [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link]
+* Click on Monitors Categories
+* Click the Next button
+
+h2. Environment
+
+The bug is present on the website [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link].
+
+h2. Workarounds
+
+N/A",,Ahmed Sameh,63c9767bbfdb647eb1da4d99,,,,,,,,,,,,,,,,,,,,,,,04/Apr/25 4:25 PM;91d1078d-dc36-424d-8d3e-b14eadf4725a;Untitled video - Made with Clipchamp.mp4;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10003,,,,,,,,,,,,,,,,,0|i0009b:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_675759788_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/12/2025 12:08
+About us on navigation is not working,SCRUM-47,10046,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,4/4/2025 16:00,4/12/2025 12:08,,4/12/2025 12:08,,0,"h2. Impact
+
+The ""About us"" link in the navigation is not functioning. Users are unable to access the information about the store, which may affect their understanding of the brand.
+
+h2. Expected behaviour
+
+When users click on the ""About us"" link, they should be redirected to the relevant page containing a video player about the store.
+
+h2. Actual behaviour
+
+Clicking on the ""About us"" link does not lead to any action or redirection. No video appears.
+
+h2. Steps to reproduce
+
+* Go to [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link]
+* Click ""About us"" in the navigation
+
+h2. Environment
+
+The bug is present on the website [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link].
+
+h2. Workarounds
+
+N/A",,Ahmed Sameh,63c9767bbfdb647eb1da4d99,,,,,,,,,,,,,,,,,,,,,,,04/Apr/25 4:00 PM;91d1078d-dc36-424d-8d3e-b14eadf4725a;Screenshot (289).png;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10002,,,,,,,,,,,,,,,,,0|i0003n:,,,,,,,,,,,,,,,10000_*:*_1_*:*_677263762_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/12/2025 12:08
+No Validation Message appears on Contact Page,SCRUM-46,10045,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,4/4/2025 15:51,4/12/2025 12:10,,4/12/2025 12:10,,0,"h2. Impact
+
+Users cannot receive any validation message when submitting the contact form with empty fields. This can lead to confusion as users may not know if their submission was successful or if they need to fill in the required information.
+
+h2. Expected behaviour
+
+When users attempt to submit the contact form with empty fields, the system should display a validation message prompting them to fill in the required fields.
+
+h2. Actual behaviour
+
+Currently, no validation message appears when users leave all fields empty and click the Send message button.
+
+h2. Steps to reproduce
+
+* Go to [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link]
+* Click ""Contact"" in the navigation
+* Leave all fields empty
+* Click the Send message button
+
+h2. Environment
+
+The bug is present on the website [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link].
+
+h2. Workarounds
+
+N/A
+
+h2. Other information
+
+* The website aims to validate performance at every stage of the software development cycle.
+* The platform is open-source compatible and massively scalable.",,Ahmed Sameh,63c9767bbfdb647eb1da4d99,,,,,,,,,,,SCRUM-24,SCRUM-8,,,,,,,,,,,04/Apr/25 3:49 PM;91d1078d-dc36-424d-8d3e-b14eadf4725a;Screenshot (288).png;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10001,,,,,,,,,,,,,,,,,0|i0008z:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_677966048_*|*_10002_*:*_1_*:*_0,10007,Contact page,Done,4/12/2025 12:10
+Contact Page is not compatible with the mobile screen size,SCRUM-45,10044,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,4/4/2025 15:38,4/12/2025 12:10,,4/12/2025 12:10,,0,"h2. Impact
+
+The Contact Page is not compatible with mobile screen sizes. Users experience layout issues when accessing the page on mobile devices.
+
+h2. Expected behaviour
+
+The Contact Page should display correctly on mobile devices, ensuring all elements are properly aligned and accessible.
+
+h2. Actual behaviour
+
+When accessing the Contact Page on mobile, the layout is distorted, making it difficult for users to interact with the page.
+
+h2. Steps to reproduce
+
+* Go to [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link]
+* Click ""Contact"" in the navigation
+* Right-click with the mouse and choose Inspect
+* Click Ctrl+Shift+M to shift from desktop screen size to mobile screen size and vice versa
+
+h2. Environment
+
+The bug is present on mobile devices when accessing the Contact Page.
+
+h2. Workarounds
+
+N/A
+
+h2. Other information
+
+* The website URL is [https://www.demoblaze.com/|https://www.demoblaze.com/|smart-link].
+* The platform is open source compatible and massively scalable, aimed at validating performance at every stage of the software development cycle.",,Ahmed Sameh,63c9767bbfdb647eb1da4d99,,,,,,,,,,,SCRUM-25,SCRUM-8,,,,,,,,,,,04/Apr/25 3:37 PM;91d1078d-dc36-424d-8d3e-b14eadf4725a;Screenshot (287).png;https://salmamohamedd286.atlassian.net/rest/api/3/attachment/content/10000,,,,,,,,,,,,,,,,,0|i00093:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_678749132_*|*_10002_*:*_1_*:*_0,10007,Contact page,Done,4/12/2025 12:10
+"After entering invalid credit card input on the order form, the purchase process is completed, and no error message appears.",SCRUM-44,10043,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/1/2025 22:58,4/8/2025 1:04,4/8/2025 1:07,4/8/2025 1:04,,0,"When a user enters an invalid credit card on the order form and clicks ""Purchase,"" the system shows a ""Thank you for your purchase"" message without displaying an error. This misleads the user into thinking the purchase was successful. The system should validate the credit card and show an appropriate error message if the details are invalid.
+
+*Test Steps:*
+
+# Go to [https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] 
+# Click on “Phone” category
+# Click on “*Samsung galaxy s6”*
+# Click on “Add to cart “ button.
+# Click on “cart” link  in the navigation bar.
+# Click on “Place order” button
+# Fill in the order form with valid details for Name , City , Country, Month, Year and invalid Credit card  number.
+
+
+
+*Actual Result:*
+
+The system shows a ""Thank you for your purchase"" message, and no error message is displayed for the invalid credit card.
+
+h3. Expected Result:
+
+An error message should appear indicating that the credit card is invalid, and the ""Thank you for your purchase"" message should not be shown.
+
+*Environment:* Windows 10
+
+  Browser:  Chrome , edge
+
+
+
+*Priority* : High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0008v:,,,,,,,,,,,,,,,10000_*:*_1_*:*_525966304_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:04
+"Cart is empty after logging in, despite adding products before login, causing missing total price calculation.",SCRUM-43,10042,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/1/2025 21:56,4/8/2025 1:03,4/8/2025 1:07,4/8/2025 1:03,,0,"When a user adds products to their cart before logging in and then logs in, the cart becomes empty, and the total price is missing. The cart should keep the items and display the correct total price after login.",,,,,,,,,,,,,,SCRUM-28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0008n:,,,,,,,,,,,,,,,10000_*:*_1_*:*_529673858_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:03
+"After clicking the ""Place Order"" button on the Cart Page, the credit card number is not masked on the Checkout Form.",SCRUM-42,10041,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/1/2025 20:24,4/8/2025 1:04,4/8/2025 1:07,4/8/2025 1:04,,0,"When a user fills out the order form after clicking ""Place Order,"" the credit card number is fully visible instead of being masked. This poses a security risk, as sensitive payment details should not be exposed.
+
+*Steps to Reproduce:*
+
+# GO to [https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] .
+# Click on “Phone” category.
+# Click on “*Samsung galaxy s6” .*
+# Click on “Add to cart” button.
+# Click on “cart” icon at the top.
+# Click on ""Place Order"" button.
+# *Fill in all fields with valid information:*
+#* *Name*
+#* *Country*
+#* *City*
+#* *Month*
+#* *Year*
+#* *Credit card number*
+# Click on purchase button
+
+*Expected Result:*
+The credit card number should be masked (e.g., {{**** **** **** 3456}}) while typing and after submission for security purposes.
+
+*Actual Result:*
+The full credit card number is displayed in plain text, exposing sensitive information.
+
+*Severity:* High
+
+*Priority:* Critical
+
+*Environment:*
+
+* OS: Windows 10
+* Browser: Chrome, Edge
+* Affected Page: Checkout Order Form",,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0008f:,,,,,,,,,,,,,,,10000_*:*_1_*:*_535224343_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:04
+Navigation Bar Link Visibility for Guest Users,SCRUM-41,10040,Task,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Ahmed Sameh,63c9767bbfdb647eb1da4d99,4/1/2025 15:22,4/3/2025 14:48,4/1/2025 21:02,4/3/2025 14:48,,0,Verify navigation links for non-logged-in users,,Ahmed Sameh,63c9767bbfdb647eb1da4d99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00087:,,,,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_170732318_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/3/2025 14:48
+"Purchase is completed despite invalid name input in the ""Place Order"" form.",SCRUM-40,10039,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/1/2025 2:50,4/11/2025 10:30,4/8/2025 2:23,4/8/2025 1:04,,0,"When a user enters an invalid name (e.g., empty or containing special characters) in the ""Place Order"" form, while all other fields are valid, clicking the 'Purchase' button completes the order and shows the 'Thank you for your purchase' message. The order must not be completed if the name is invalid, and the user should be asked to fix it before submitting.
+
+ *Steps to Reproduce:*
+
+# Go to [https://www.demoblaze.com/index.html|https://www.demoblaze.com/index.html|smart-link] .
+# Click on “Phones “ category.
+# Click on “Samsung galaxy s6”
+# Click on “Add to cart” button.
+# Click on “cart” link at the navigation bar.
+
+# Click on the ""Place Order"" button to open the form.
+# In the ""Place Order"" form, enter an invalid name (e.g., leave it empty or include special characters).
+# Click on purchase button
+
+*Expected Result:*
+The purchase should not be completed if the name is invalid. The form should display an error message and prevent the order from being placed until valid information is provided.
+
+*Actual Result:*
+The purchase is completed successfully despite the invalid name input, bypassing the validation.
+
+*Priority:* High",,,,,,,,,,,,,,SCRUM-30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007z:,,,,,,,,,,,,,,,10000_*:*_1_*:*_598445864_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:04
+"""Place Order"" Button Enabled Even When Cart is Empty",SCRUM-39,10038,Bug,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,4/1/2025 2:11,4/8/2025 1:02,4/8/2025 1:06,4/8/2025 1:02,,0,"*Issue:*
+On the *Cart Page*, the *""Place Order""* button remains *enabled* even when the cart is empty, allowing users to proceed with checkout without purchasing any items.
+
+*Steps to Reproduce:*
+
+# Go to the *Cart Page*.
+# Ensure the cart is *empty* (no items).
+# Notice that the *""Place Order"" button* is still enabled.
+# Click *""Place Order""* → The order form opens.
+# Fill in payment details and click *""Purchase""*.
+# A *confirmation message appears (""Thank you for your purchase"")*, even though no items were actually ordered.
+
+*Expected Result:*
+
+* The *""Place Order"" button* should be *disabled* when the cart is empty.
+
+*Actual Result:*
+
+* The *button remains enabled*, allowing users to proceed with checkout even if they have no items in their cart.
+
+
+
+*Priority:*
+🔴 *High*",,,,,,,,,,,,,,SCRUM-29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007r:,,,,,,,,,,,,,,,10000_*:*_1_*:*_600677826_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:02
+ About Us Page,SCRUM-37,10036,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:55,4/14/2025 21:03,3/31/2025 21:56,4/14/2025 21:03,,0,"*As a user*, I want to view the ""About Us"" section so that I can learn more about the company, its mission, and its services.
+
+*Acceptance Criteria*:
+
+* The About Us page is easily accessible through the navigation menu.
+* The page includes information about the company, its values, mission, and services.
+* The page is well-organized, clear, and easy to read.
+* The information is updated as needed to reflect current company details.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,SCRUM-63,SCRUM-64,SCRUM-65,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007j:,,,,,,,,,,,,,,,10000_*:*_1_*:*_1200170126_*|*_10001_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 21:03
+ User Sign Up,SCRUM-36,10035,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:54,4/14/2025 21:04,4/15/2025 6:09,4/14/2025 21:04,,0,"*As a user*, I want to create an account so that I can manage my orders, track my purchases, and personalize my shopping experience.
+
+*Acceptance Criteria*:
+
+* The Sign Up page contains fields for email, username, password, and confirmation of password.
+* The system validates that the email is in the correct format and that the password meets security requirements.
+* Users can submit the form to create an account.
+* If the submission is successful, the user is redirected to their dashboard or home page with an account confirmation message.
+* If there are any errors (e.g., missing or invalid fields), the system displays error messages next to the corresponding fields.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0007b:,,,SCRUM Sprint 1,,,,,,,3d651f6d-e581-4167-9b48-a92b9ca22b80,Depi_Testing_Team,,,,10000_*:*_1_*:*_1199232260_*|*_10001_*:*_1_*:*_0,10011,Sign-Up and About Us Feature,Done,4/14/2025 21:04
+User Logout,SCRUM-35,10034,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:52,4/3/2025 18:27,3/31/2025 21:52,4/3/2025 18:27,,0,"*As a user*, I want to log out of my account so that I can securely end my session and protect my personal information.
+
+*Acceptance Criteria*:
+
+* A ""Log Out"" button is visible when the user is logged in.
+* When clicked, the user is logged out of their account.
+* Upon successful logout, the user is redirected to the home page or login page.
+* Any session-related data (e.g., cart items, personal details) is cleared after logging out.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00073:,,,,,,,,,,,,,,,10000_*:*_1_*:*_236265557_*|*_10001_*:*_1_*:*_0,10010,Login and Logout,Done,4/3/2025 18:27
+User Login,SCRUM-34,10033,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,,,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:51,4/3/2025 18:16,3/31/2025 21:51,4/3/2025 18:16,,0,"*As a user*, I want to securely log in to my account so that I can access my personal information and manage my purchases.
+
+*Acceptance Criteria*:
+
+* Users can enter their credentials (email/username and password) to log in.
+* The system validates the entered credentials.
+* Upon successful login, users are redirected to their account dashboard or home page.
+* If login fails, an error message is displayed, prompting users to retry with correct credentials.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0006v:,,,,,,,,,,,,,,,10000_*:*_1_*:*_236322184_*|*_10001_*:*_1_*:*_0,10010,Login and Logout,Done,4/3/2025 18:16
+View About Us Section,SCRUM-33,10032,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:47,4/8/2025 1:06,4/8/2025 1:06,4/8/2025 1:06,,0,"*As a user*, I want to access an *About Us* section on the Cart Page to learn more about the company and its mission.
+*Acceptance Criteria*:
+
+* The Cart Page includes an *About Us* section with brief information about the company and its values.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0006n:,,,,,,,,,,,,,,,10000_*:*_1_*:*_616738872_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:06
+ View Contact Information,SCRUM-32,10031,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:46,4/8/2025 1:05,4/8/2025 1:05,4/8/2025 1:05,,0,"*As a user*, I want to see the company’s contact details and social media links on the Cart Page so that I can reach out for assistance if needed.
+*Acceptance Criteria*:
+
+* The Cart Page includes a *Get in Touch* section with the company’s contact details (email, phone number) and links to social media (e.g., Facebook, Twitter, Instagram).",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0006f:,,,,,,,,,,,,,,,10000_*:*_1_*:*_616746925_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:05
+ Access Other Website Sections,SCRUM-31,10030,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:45,4/8/2025 1:05,4/8/2025 1:05,4/8/2025 1:05,,0,"*As a user*, I want to easily navigate to other parts of the website, such as the homepage, product categories, or account pages, so that I can explore other options or manage my account.
+*Acceptance Criteria*:
+
+* The Cart Page includes links to the homepage, product categories, and user account pages, allowing users to easily navigate to these sections.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00067:,,,,,,,,,,,,,,,10000_*:*_1_*:*_616844958_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:05
+Enter Payment and Shipping Details,SCRUM-30,10029,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:44,4/11/2025 10:31,4/11/2025 11:53,4/11/2025 10:31,,0,"As a user, I want to fill out my payment and shipping information on the checkout form on the Cart Page so that I can complete my order successfully.
+
+
+*Acceptance Criteria*:
+
+* A form appears when users click the ""Place Order"" button, allowing them to input payment details (e.g., credit card number, expiration date) and shipping details (e.g., name, address, city, country).
+* The form must validate that all required fields are filled out correctly before submission.
+* An error message is displayed at the top of the form if any fields are invalid.
+* Users can submit the form to complete their purchase.
+* The credit card number field must be masked or encrypted to ensure security.
+* A confirmation or success message should appear once the purchase is completed successfully.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,SCRUM-42,,,SCRUM-40,SCRUM-44,SCRUM-50,SCRUM-51,SCRUM-52,SCRUM-53,SCRUM-54,SCRUM-55,SCRUM-56,SCRUM-57,,,,,,,,,,,,,,,,,,0|i0005z:,,,,,,,,,,,,,,,10000_*:*_2_*:*_616825934_*|*_10002_*:*_1_*:*_74452251,10009,Cart page,Done,4/11/2025 10:31
+Place Order Button,SCRUM-29,10028,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:43,4/11/2025 6:10,4/11/2025 11:50,4/8/2025 1:02,,0,"*As a user*, I want to click the ""Place Order"" button so that I can proceed to enter my payment and shipping details to complete my purchase.
+*Acceptance Criteria*:
+
+* The cart page includes a visible ""Place Order"" button.
+* Clicking the ""Place Order"" button opens the order form for the user to provide shipping and payment details.
+* The ""Place Order"" button is only visible if there is at least one item in the cart.
+* The button is disabled or hidden if the cart is empty.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,SCRUM-10,SCRUM-39,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005r:,,,,,,,,,,,,,,,10000_*:*_1_*:*_616761739_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:02
+View Total Price,SCRUM-28,10027,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:38,4/8/2025 1:03,4/8/2025 1:03,4/8/2025 1:03,,0,"*As a user*, I want to see the total price of all products, including taxes and shipping fees, so that I can make an informed decision before proceeding to checkout.
+*Acceptance Criteria*:
+
+* The total price is displayed clearly and correctly  including taxes and shipping costs, so users can see the complete amount before proceeding to checkout.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,SCRUM-43,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005j:,,,,,,,,,,,,,,,10000_*:*_1_*:*_617094464_*|*_10002_*:*_1_*:*_0,10009,Cart page,Done,4/8/2025 1:03
+Remove Unwanted Items,SCRUM-27,10026,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:37,4/3/2025 13:38,3/31/2025 22:03,4/3/2025 13:38,,0,"*As a user*, I want to remove unwanted items from my cart so that I can adjust my order before completing the purchase.
+*Acceptance Criteria*:
+
+* Each product listed on the Cart Page includes a ""Remove"" button that users can click to delete the item from the cart.
+* The cart updates to reflect the changes after removing an item.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0005b:,,,,,,,,,,,,,,,10000_*:*_1_*:*_227536086_*|*_10001_*:*_1_*:*_0,10009,Cart page,Done,4/3/2025 13:38
+View Cart Items,SCRUM-26,10025,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:37,4/3/2025 13:38,3/31/2025 22:03,4/3/2025 13:38,,0,"*As a user*, I want to review the items in my cart, including the product image, title, price, and quantity, so that I can ensure I’m purchasing the correct items.
+*Acceptance Criteria*:
+
+* The Cart Page displays each product with its image, title, price, and quantity.
+* Users can see the total price of all products.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00053:,,,,,,,,,,,,,,,10000_*:*_1_*:*_227587505_*|*_10001_*:*_1_*:*_0,10009,Cart page,Done,4/3/2025 13:38
+Responsive Design,SCRUM-25,10024,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:33,4/4/2025 15:43,3/31/2025 21:33,4/3/2025 15:29,,0,"*As a user*, I want the Contact Page to be responsive so that I can easily use the form on any device.
+
+
+*Acceptance Criteria*:
+
+* The Contact Page and form adjust to different screen sizes (desktop, tablet, mobile) for a smooth experience across all devices.
+* The form fields and submit button are easily accessible and functional on all screen sizes.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,SCRUM-45,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0004v:,,,,,,,,,,,,,,,10000_*:*_1_*:*_234890856_*|*_10001_*:*_1_*:*_0,10007,Contact page,Done,4/3/2025 15:29
+Submit Contact Form,SCRUM-24,10023,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:31,4/4/2025 15:52,3/31/2025 21:32,4/3/2025 15:11,,0,"*As a user*, I want to view and submit a contact form on the Contact Page to send inquiries or feedback to the company, and receive validation and confirmation.
+
+*Acceptance Criteria*:
+
+* The Contact Page includes a form with fields for *Email*, *Name*, and *Message*, and the form is clearly visible and easy to navigate.
+* Users can fill in the *Email*, *Name*, and *Message* fields and submit the form.
+* Upon submission, the system validates the fields and ensures all required fields are completed.
+* If any required field (Email, Name, or Message) is missing or invalid, an error message is displayed next to the corresponding field, and users cannot submit the form until all fields are valid.
+* After successful submission, a confirmation message is displayed, letting users know their message has been received, and the user remains on the Contact Page.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,SCRUM-46,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0004n:,,,,,,,,,,,,,,,10000_*:*_1_*:*_234997068_*|*_10001_*:*_1_*:*_0,10007,Contact page,Done,4/3/2025 15:11
+Responsive Design,SCRUM-23,10022,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:26,4/3/2025 19:18,3/31/2025 21:26,4/3/2025 14:49,,0,"*As a user*, I want the home page to be responsive so that I can easily navigate and view products on any device (desktop, tablet, or mobile).
+
+
+*Acceptance Criteria*:
+
+* The home page adapts to different screen sizes and maintains usability on desktop, tablet, and mobile.
+* All navigation links and product categories are easily accessible on all devices.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0004f:,,,,,,,,,,,,,,,10000_*:*_1_*:*_235274880_*|*_10001_*:*_1_*:*_0,10006,Home Page,Done,4/3/2025 14:49
+View Product Listings,SCRUM-22,10021,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:25,4/3/2025 19:18,3/31/2025 22:07,4/3/2025 14:47,,0,"*As a user*, I want to see a list of products in each category so that I can explore options before making a purchase.
+
+
+*Acceptance Criteria*:
+
+* Each product category (Mobile, Laptop, Monitors) displays items with the product name, image, description, and price.
+* Each product is clickable and redirects the user to its respective product detail page.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00047:,,,,,,,,,,,,,,,10000_*:*_1_*:*_235348477_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/3/2025 14:47
+ Browse Product Categories,SCRUM-21,10020,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:22,4/3/2025 19:18,3/31/2025 22:07,4/3/2025 14:47,,0,"*As a user*, I want to browse through product categories (Mobile, Laptop, and Monitors) so that I can find products I'm interested in.
+
+
+*Acceptance Criteria*:
+
+* The home page displays three categories: *Mobile*, *Laptop*, and *Monitors*.
+* Clicking on any category redirects the user to a page showing products in that category.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003z:,,,,,,,,,,,,,,,10000_*:*_1_*:*_235518820_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/3/2025 14:47
+View Navigation Links,SCRUM-20,10019,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:20,4/3/2025 19:18,3/31/2025 21:21,4/3/2025 14:47,,0,"*As a user*, I want to easily access navigation links (Log In, Log Out, Contact, About Us, Sign Up) so that I can move between different sections of the website.
+
+
+*Acceptance Criteria*:
+
+* The navigation bar includes links to *Log In*, *Log Out* (only visible when logged in), *Contact*, *About Us*, and *Sign Up*.
+* Clicking on any link redirects the user to the correct page.
+* The *Log Out* link is visible only when the user is logged in.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,10000_*:*_1_*:*_235611583_*|*_10002_*:*_1_*:*_0,10006,Home Page,Done,4/3/2025 14:47
+Get in Touch,SCRUM-19,10018,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:16,4/16/2025 17:55,4/8/2025 0:59,4/16/2025 17:55,,0,"*As a user*, I want to find contact details, including the company’s address, so that I can reach out if I have any questions or concerns.
+
+
+*Acceptance Criteria*:
+
+# A *Get in Touch* section is visible with contact details such as phone number, email, and company address.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,10000_*:*_1_*:*_1370336046_*|*_10002_*:*_1_*:*_0,10008,Product detail page ,Done,4/16/2025 17:55
+Read About Us,SCRUM-18,10017,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:15,4/16/2025 17:55,3/31/2025 21:15,4/16/2025 17:55,,0,"*As a user*, I want to access information about the brand and its values so that I can understand the company behind the product.
+*Acceptance Criteria*:
+
+* There is an *About Us* link that leads to a page with relevant company information.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,,10000_*:*_1_*:*_1370399963_*|*_10002_*:*_1_*:*_0,10008,Product detail page ,Done,4/16/2025 17:55
+Navigate to Other Pages,SCRUM-17,10016,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:13,4/16/2025 17:55,3/31/2025 21:14,4/16/2025 17:55,,0,"*As a user*, I want quick access to other pages like Home, Cart, Contact, Log In, and Sign Up so that I can easily navigate the website.
+*Acceptance Criteria*:
+
+* Navigation links to Home, Cart, Contact, Log In, and Sign Up are visible and functional.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,,10000_*:*_1_*:*_1370505701_*|*_10002_*:*_1_*:*_0,10008,Product detail page ,Done,4/16/2025 17:55
+Add Product to Cart,SCRUM-16,10015,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:12,4/3/2025 13:41,3/31/2025 21:12,4/3/2025 13:41,,0,"*As a user*, I want to add the product to my cart so that I can proceed with the checkout process later.
+*Acceptance Criteria*:
+
+* There is an *Add to Cart* button that works when clicked.
+* After adding the product, the cart icon should update to reflect the new total number of items.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,,10000_*:*_1_*:*_232130551_*|*_10002_*:*_1_*:*_0,10008,Product detail page ,Done,4/3/2025 13:41
+View Product Details,SCRUM-15,10014,Story,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 21:09,4/3/2025 13:41,3/31/2025 21:10,4/3/2025 13:41,,0,"*As a user*, I want to view the product image, name, price, and description so that I can make an informed purchase decision.
+*Acceptance Criteria*:
+
+* The product image is displayed clearly, with an option to click and view a larger version.
+* The product name is displayed prominently and correctly.
+* The price, including taxes, is displayed clearly, with any applicable discounts or offers shown.
+* The product description is displayed with relevant details (size, material, functionality), and users can click to view the full description if it is lengthy.",,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0002n:,,,,,,,,,,,,,,,10000_*:*_1_*:*_232304834_*|*_10002_*:*_1_*:*_0,10008,Product detail page ,Done,4/3/2025 13:41
+Sign-Up and About Us Feature,SCRUM-12,10011,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Alaa Refat Mohammad Hassan,712020:bd7c9ee7-8d26-4cb1-a282-b9422e8228e1,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 20:46,4/14/2025 21:03,4/15/2025 4:46,4/14/2025 21:03,,0,"The *Sign-Up* and *About Us* feature allows new users to create accounts and learn about the company. Users can register by providing their details (name, email, password), and after registration, they are redirected to their account dashboard. The *About Us* section provides information about the company, its mission, and services, helping users understand the brand.",,,,,,,,,,,,,,,,SCRUM-61,SCRUM-62,SCRUM-63,SCRUM-64,SCRUM-65,,,,,,,,,,,,,,,,,,purple,,,,,0|i0002f:,,,,,,,,,,,,,,,10000_*:*_1_*:*_1210576625_*|*_10002_*:*_1_*:*_0,,,Done,4/14/2025 21:03
+Login and Logout,SCRUM-11,10010,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Amr Mahmoud,712020:31dceeb7-c1b1-4805-b95a-f50053aa4435,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 20:42,4/3/2025 18:27,4/12/2025 12:12,4/3/2025 18:27,,0,"The *User Login and Logout* feature allows users to securely log in to their accounts and log out when finished. Logging in enables users to access their account, manage personal details, view order history, and make purchases. The logout function ensures the user's session ends securely, protecting their information.
+
+Users can log in by entering their credentials (email/username and password) and will be redirected to their dashboard or home page. When users log out, they are redirected to the home page, and any session data, like cart items, is cleared.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,purple,,,,,0|i00027:,,,,,,,,,,,,,,,10000_*:*_1_*:*_236755415_*|*_10001_*:*_1_*:*_0,,,Done,4/3/2025 18:27
+Cart page,SCRUM-10,10009,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 20:28,4/11/2025 11:49,4/16/2025 20:08,4/11/2025 11:49,,0,"The *Cart Page* allows users to review and manage their order before completing the purchase. It displays each product with its image, title, price, and the option to remove unwanted items. The page also shows the total price for all products and includes a *Place Order* button. When clicked, a form appears for users to enter their payment details (such as credit card and name) to complete the purchase.
+
+The page provides easy access to other parts of the website, such as the homepage, categories, or account pages. It also includes *contact details*, email support, and links to social media for customer assistance. Additionally, the page features an *About Us* section with information about the company.",,,,,,,,,,,,,,SCRUM-29,,,,,,,,,,,,,,,,,,,,,,,,purple,,,,,0|i0001z:,,,,,,,,,,,,,,,10000_*:*_3_*:*_840020784_*|*_10002_*:*_2_*:*_78621461,,,Done,4/11/2025 11:49
+Product detail page ,SCRUM-9,10008,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Hossam Amer,712020:5151c46c-fe27-4784-a31e-6b80852eea55,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 19:46,4/8/2025 1:00,4/12/2025 12:13,4/3/2025 13:37,,0,"The *Product Detail Page* provides key information to help users make a purchase decision. It includes:
+
+* *Product Image* – A clear visual of the product.
+* *Product Name* – The title of the product.
+* *Price* – The cost, including taxes.
+* *Description* – Key features and specifications.
+* *Add to Cart Button* – Allows users to add the item to their cart.
+* *Navigation Links* – Quick access to Home, Cart, Contact, Log in, and Sign up.
+* *Cart Icon* – Displays the number of items in the cart.
+* *About Us* – Information about the brand and its values.
+* *Get in Touch* – Contact details, including the company’s address.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,purple,,,,,0|i0001r:,,,,,,,,,,,,,,,10000_*:*_1_*:*_234198746_*|*_10001_*:*_1_*:*_0,,,Done,4/3/2025 13:37
+Contact page,SCRUM-8,10007,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 19:23,4/4/2025 15:56,4/12/2025 12:10,4/3/2025 15:29,,0,"The Contact Page allows users to communicate with the company by submitting inquiries or feedback through a contact form. The form includes fields for *Email, Name, and Message* to ensure proper communication. Users will receive an *error message* if any required field is missing or invalid. Upon successful submission, a *confirmation message* will be displayed. The page ensures a smooth and responsive user experience across all devices.",,,,,,,,,,,,,,,,SCRUM-46,SCRUM-45,,,,,,,,,,,,,,,,,,,,,purple,,,,,0|i0001j:,,,,,,,,,,,,,,,10000_*:*_1_*:*_241491264_*|*_10001_*:*_1_*:*_0,,,Done,4/3/2025 15:29
+Home Page,SCRUM-7,10006,Epic,Done,SCRUM,My Scrum Project,software,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,,Medium,Done,Ahmed Sameh,63c9767bbfdb647eb1da4d99,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,Salma Mohamed Ahmed Lotfy,712020:3e5c3996-7ef3-4ccd-ac91-1c9b9fe901be,3/31/2025 19:14,4/3/2025 14:49,4/12/2025 12:09,4/3/2025 14:49,,0,"The *Home Page* helps users navigate the website easily and find the products they need.
+
+* It includes a *navigation bar* with links to *Log In, Log Out (visible when logged in), Contact, About Us, and Sign Up*.
+* Clicking on a *navigation link* takes users to the correct page.
+* The *Log Out* option is only shown when a user is logged in.
+* Users can browse *three product categories*: *Mobile, Laptop, and Monitors*.
+* Clicking on a category redirects users to a *product listing page* with relevant items.
+* Each product category displays items with a *name, image, description, and price*.
+* The page is *responsive*, ensuring a smooth experience on different screen sizes.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,purple,,,,,0|i0001b:,,,,,,,,,,,,,,,10000_*:*_1_*:*_242001592_*|*_10001_*:*_1_*:*_0,,,Done,4/3/2025 14:49
