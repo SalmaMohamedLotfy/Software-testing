@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Place Order and Total Calculation Suite">
+
+    <!-- Test Group: Place Order -->
+    <test name="Place Order Tests">
+        <groups>
+            <run>
+                <include name="placeorder"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="Test.testing"/>
+        </classes>
+    </test>
+
+    <!-- Test Group: Total Calculation -->
+    <test name="Total Calculation Tests">
+        <groups>
+            <run>
+                <include name="total"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="Test.testing"/>
+        </classes>
+    </test>
+
+</suite>
