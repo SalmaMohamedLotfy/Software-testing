@@ -8,5 +8,5 @@ Link for Jira: https://salmamohamedd286.atlassian.net/jira/software/projects/SCR
 
 Link for Test Cases in Jira: https://salmamohamedd286.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.kanoah.test-manager__main-project-page#!/v2/testCases
 
-Link for Jira Epics & Bugs
+Link for tested website
 https://www.demoblaze.com/index.html
